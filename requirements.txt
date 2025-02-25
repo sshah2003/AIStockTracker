@@ -1,7 +1,6 @@
 
 ### 2. requirements.txt
 
-```plaintext
 yfinance
 pandas
 numpy
