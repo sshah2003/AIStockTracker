@@ -1,4 +1,4 @@
-# Stock Forecast Project
+# Stock Forecast Project - One of my first AI Projects
 
 This project fetches historical stock price data, performs exploratory data analysis (EDA), and builds a baseline ARIMA model to forecast future stock prices.
 
