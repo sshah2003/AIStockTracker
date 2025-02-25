@@ -1,0 +1,11 @@
+
+### 2. requirements.txt
+
+```plaintext
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+scikit-learn

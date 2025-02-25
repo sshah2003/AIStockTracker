@@ -1,0 +1,13 @@
+# Stock Forecast Project
+
+This project fetches historical stock price data, performs exploratory data analysis (EDA), and builds a baseline ARIMA model to forecast future stock prices.
+
+## Features
+- Fetch historical stock data using `yfinance`
+- Perform basic EDA and visualize stock price trends
+- Build and evaluate an ARIMA model for forecasting
+
+## How to Run
+1. Install the required libraries:
+   ```bash
+   pip install -r requirements.txt
